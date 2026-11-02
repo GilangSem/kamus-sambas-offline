@@ -1,17 +1,28 @@
-# kamus_app
+# Kamus Sambas Offline
 
-A new Flutter project.
+Aplikasi kamus Bahasa Sambas berbasis Flutter yang dirancang untuk membantu pengguna mencari dan mempelajari kosakata Bahasa Sambas secara offline.
 
-## Getting Started
+## Status Pengembangan
 
-This project is a starting point for a Flutter application.
+Project ini masih dalam tahap pengembangan dan belum selesai 100%.
 
-A few resources to get you started if this is your first Flutter project:
+## Teknologi
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- SQLite
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Fitur
+
+Fitur aplikasi akan terus dikembangkan dan disesuaikan dengan kebutuhan project.
+
+## Menjalankan Project
+
+1. Pastikan Flutter sudah terinstal.
+2. Clone repository.
+3. Jalankan `flutter pub get`.
+4. Jalankan `flutter run`.
+
+## Developer
+
+G
